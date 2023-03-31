@@ -1,13 +1,12 @@
 # Adeyeye Adesanoye
 ## Full Stack Developer
-### Jos, Nigeria
 
 ## Skills
 - HTML/CSS
 - JavaScript
 - React
 - Node.js
+- Tailwindcss
 
 ## Interests
 Web Development
-

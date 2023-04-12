@@ -1,11 +1,10 @@
 # Adeyeye Adesanoye
-## Full Stack Developer
+## Full Stack Developer (Aspiring)
 
 ## Skills
 - HTML/CSS
 - JavaScript
 - React
-- Node.js
 - Tailwindcss
 
 ## Interests

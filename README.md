@@ -4,8 +4,9 @@
 ## Skills
 - HTML/CSS
 - JavaScript
-- React
+- Reactjs
 - Tailwindcss
+- Nextjs
 
 ## Interests
 Web Development

@@ -1,5 +1,5 @@
 # Adeyeye Adesanoye
-## Full Stack Developer (Aspiring)
+## FrontEnd Developer
 
 ## Skills
 - HTML/CSS

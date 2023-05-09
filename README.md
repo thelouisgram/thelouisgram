@@ -1,10 +1,10 @@
 # Hi there 👋
 
-My name is Adesanoye and I'm a FrontEnd Developer based in Nigeria. Welcome to my GitHub profile!
+I'm a FrontEnd Developer based in Nigeria. Welcome to my GitHub profile!
 
 ## About Me
 
-- As a frontend engineer, I enjoy creating beautiful, functional, and seamless user interfaces that meet users' needs and expectations through elegant solutions.
+- I enjoy creating beautiful, functional, and seamless user interfaces that meet users' needs and expectations through elegant solutions.
 
 ## Skills
 

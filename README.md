@@ -2,10 +2,6 @@
 
 I'm a FrontEnd Developer based in Nigeria. Welcome to my GitHub profile!
 
-## About Me
-
-- I enjoy creating beautiful, functional, and seamless user interfaces that meet users' needs and expectations through elegant solutions.
-
 ## Skills
 
 - 🌐 HTML

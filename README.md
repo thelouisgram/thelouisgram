@@ -30,10 +30,6 @@ I'm a FrontEnd Developer based in Nigeria. Welcome to my GitHub profile!
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=thelouisgram&show_icons=true&count_private=true&theme=dark)](https://github.com/thelouisgram)
 
-## Fun Fact
-
-- I'm a 5th year Medical student.
-
 ## Contact
 If you have any questions or would like to connect, feel free to reach out to me at:
 

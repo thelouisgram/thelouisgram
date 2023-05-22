@@ -4,23 +4,14 @@ I'm a FrontEnd Developer based in Nigeria. Welcome to my GitHub profile!
 
 ## Skills
 
-- 🌐 HTML
-- 🎨 CSS
 - 📐 Responsive Design
-- 🖌️ UI Design
 - 💻 JavaScript
 - 💨 Tailwind CSS
 - 🧪  React
-- 🔄 Redux
-- 📦 npm
-- 🚀 Webpack
-- 🎭 Animation (e.g. CSS Animations)
 - 📱 Mobile-First Development
-- 🛠️ Accessibility (e.g. ARIA)
 - 🔧 Debugging/Testing
 - 📚 Documentation
 - 🤝 Collaboration/Teamwork
-- 🚀 Project Management
 
 ## Stats
 

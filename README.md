@@ -6,7 +6,7 @@ I'm a FrontEnd Developer based in Nigeria. Welcome to my GitHub profile!
 
 - 💻 TypeScript
 - 💨 Tailwind CSS
-- 🧪  React
+- 🧪 Next
 - 🔧 Debugging/Testing
 - 📚 Documentation
 
